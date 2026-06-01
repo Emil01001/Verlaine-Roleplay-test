@@ -125,7 +125,7 @@ db.exec(`
     user_id TEXT PRIMARY KEY,
     charbon INTEGER DEFAULT 0,
     fer INTEGER DEFAULT 0,
-    or INTEGER DEFAULT 0,
+    gold INTEGER DEFAULT 0,
     diamant INTEGER DEFAULT 0,
     last_mine INTEGER DEFAULT 0
   );
