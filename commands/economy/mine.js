@@ -5,7 +5,7 @@ const config = require('../../config');
 const ores = [
   { name: 'Charbon', key: 'charbon', emoji: '🪨', value: 10, chance: 0.45 },
   { name: 'Fer', key: 'fer', emoji: '⚙️', value: 30, chance: 0.30 },
-  { name: 'Or', key: 'or', emoji: '🏅', value: 80, chance: 0.18 },
+  { name: 'Or', key: 'gold', emoji: '🏅', value: 80, chance: 0.18 },
   { name: 'Diamant', key: 'diamant', emoji: '💎', value: 250, chance: 0.07 },
 ];
 
